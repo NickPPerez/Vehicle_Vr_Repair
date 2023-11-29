@@ -1,0 +1,474 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8550585858259769689
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8913029898346470601}
+  m_Layer: 0
+  m_Name: Wall Rack
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8913029898346470601
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8550585858259769689}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6179347822399199423}
+  - {fileID: 6179347821081503881}
+  - {fileID: 5623315993634198589}
+  - {fileID: 6179347822587266696}
+  - {fileID: 5623315993400562635}
+  - {fileID: 1589695951223422145}
+  - {fileID: 5623315994045646902}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &9094346065727516939
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8913029898346470601}
+    m_Modifications:
+    - target: {fileID: 3476659659044102848, guid: d1ef0aa7e33b81b41a68b855d9a088ff, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 3476659659044102848, guid: d1ef0aa7e33b81b41a68b855d9a088ff, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.3971999
+      objectReference: {fileID: 0}
+    - target: {fileID: 3476659659044102848, guid: d1ef0aa7e33b81b41a68b855d9a088ff, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3476659659044102848, guid: d1ef0aa7e33b81b41a68b855d9a088ff, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3476659659044102848, guid: d1ef0aa7e33b81b41a68b855d9a088ff, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071072
+      objectReference: {fileID: 0}
+    - target: {fileID: 3476659659044102848, guid: d1ef0aa7e33b81b41a68b855d9a088ff, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3476659659044102848, guid: d1ef0aa7e33b81b41a68b855d9a088ff, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7071064
+      objectReference: {fileID: 0}
+    - target: {fileID: 3476659659044102848, guid: d1ef0aa7e33b81b41a68b855d9a088ff, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3476659659044102848, guid: d1ef0aa7e33b81b41a68b855d9a088ff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3476659659044102848, guid: d1ef0aa7e33b81b41a68b855d9a088ff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 3476659659044102848, guid: d1ef0aa7e33b81b41a68b855d9a088ff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4284122979059726458, guid: d1ef0aa7e33b81b41a68b855d9a088ff, type: 3}
+      propertyPath: m_Name
+      value: Wall Rack Support (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d1ef0aa7e33b81b41a68b855d9a088ff, type: 3}
+--- !u!4 &5623315993400562635 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3476659659044102848, guid: d1ef0aa7e33b81b41a68b855d9a088ff, type: 3}
+  m_PrefabInstance: {fileID: 9094346065727516939}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9094346065790201340
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8913029898346470601}
+    m_Modifications:
+    - target: {fileID: 2359674162381889487, guid: 4c61406dde1b1fa4fbf7c2f2e9c9ebe3, type: 3}
+      propertyPath: m_Name
+      value: Wall Rack Rail (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3167419816361379189, guid: 4c61406dde1b1fa4fbf7c2f2e9c9ebe3, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3167419816361379189, guid: 4c61406dde1b1fa4fbf7c2f2e9c9ebe3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.0022001266
+      objectReference: {fileID: 0}
+    - target: {fileID: 3167419816361379189, guid: 4c61406dde1b1fa4fbf7c2f2e9c9ebe3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.082
+      objectReference: {fileID: 0}
+    - target: {fileID: 3167419816361379189, guid: 4c61406dde1b1fa4fbf7c2f2e9c9ebe3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.015999913
+      objectReference: {fileID: 0}
+    - target: {fileID: 3167419816361379189, guid: 4c61406dde1b1fa4fbf7c2f2e9c9ebe3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071071
+      objectReference: {fileID: 0}
+    - target: {fileID: 3167419816361379189, guid: 4c61406dde1b1fa4fbf7c2f2e9c9ebe3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3167419816361379189, guid: 4c61406dde1b1fa4fbf7c2f2e9c9ebe3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7071065
+      objectReference: {fileID: 0}
+    - target: {fileID: 3167419816361379189, guid: 4c61406dde1b1fa4fbf7c2f2e9c9ebe3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3167419816361379189, guid: 4c61406dde1b1fa4fbf7c2f2e9c9ebe3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3167419816361379189, guid: 4c61406dde1b1fa4fbf7c2f2e9c9ebe3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 3167419816361379189, guid: 4c61406dde1b1fa4fbf7c2f2e9c9ebe3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 4c61406dde1b1fa4fbf7c2f2e9c9ebe3, type: 3}
+--- !u!4 &6179347821081503881 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3167419816361379189, guid: 4c61406dde1b1fa4fbf7c2f2e9c9ebe3, type: 3}
+  m_PrefabInstance: {fileID: 9094346065790201340}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9094346066511741043
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8913029898346470601}
+    m_Modifications:
+    - target: {fileID: 7165780299158873608, guid: 5266a753d4a31a5488976e396ab4793e, type: 3}
+      propertyPath: m_Name
+      value: Wall Rack Shelf (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7510358878747049138, guid: 5266a753d4a31a5488976e396ab4793e, type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7510358878747049138, guid: 5266a753d4a31a5488976e396ab4793e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.6999998
+      objectReference: {fileID: 0}
+    - target: {fileID: 7510358878747049138, guid: 5266a753d4a31a5488976e396ab4793e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.08400011
+      objectReference: {fileID: 0}
+    - target: {fileID: 7510358878747049138, guid: 5266a753d4a31a5488976e396ab4793e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.0009999275
+      objectReference: {fileID: 0}
+    - target: {fileID: 7510358878747049138, guid: 5266a753d4a31a5488976e396ab4793e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 7510358878747049138, guid: 5266a753d4a31a5488976e396ab4793e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7510358878747049138, guid: 5266a753d4a31a5488976e396ab4793e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.70710677
+      objectReference: {fileID: 0}
+    - target: {fileID: 7510358878747049138, guid: 5266a753d4a31a5488976e396ab4793e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7510358878747049138, guid: 5266a753d4a31a5488976e396ab4793e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7510358878747049138, guid: 5266a753d4a31a5488976e396ab4793e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 7510358878747049138, guid: 5266a753d4a31a5488976e396ab4793e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5266a753d4a31a5488976e396ab4793e, type: 3}
+--- !u!4 &1589695951223422145 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7510358878747049138, guid: 5266a753d4a31a5488976e396ab4793e, type: 3}
+  m_PrefabInstance: {fileID: 9094346066511741043}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9094346066554314186
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8913029898346470601}
+    m_Modifications:
+    - target: {fileID: 2359674162381889487, guid: 4c61406dde1b1fa4fbf7c2f2e9c9ebe3, type: 3}
+      propertyPath: m_Name
+      value: Wall Rack Rail (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3167419816361379189, guid: 4c61406dde1b1fa4fbf7c2f2e9c9ebe3, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3167419816361379189, guid: 4c61406dde1b1fa4fbf7c2f2e9c9ebe3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.3949997
+      objectReference: {fileID: 0}
+    - target: {fileID: 3167419816361379189, guid: 4c61406dde1b1fa4fbf7c2f2e9c9ebe3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.029999971
+      objectReference: {fileID: 0}
+    - target: {fileID: 3167419816361379189, guid: 4c61406dde1b1fa4fbf7c2f2e9c9ebe3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.015999913
+      objectReference: {fileID: 0}
+    - target: {fileID: 3167419816361379189, guid: 4c61406dde1b1fa4fbf7c2f2e9c9ebe3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071071
+      objectReference: {fileID: 0}
+    - target: {fileID: 3167419816361379189, guid: 4c61406dde1b1fa4fbf7c2f2e9c9ebe3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3167419816361379189, guid: 4c61406dde1b1fa4fbf7c2f2e9c9ebe3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7071065
+      objectReference: {fileID: 0}
+    - target: {fileID: 3167419816361379189, guid: 4c61406dde1b1fa4fbf7c2f2e9c9ebe3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3167419816361379189, guid: 4c61406dde1b1fa4fbf7c2f2e9c9ebe3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3167419816361379189, guid: 4c61406dde1b1fa4fbf7c2f2e9c9ebe3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 3167419816361379189, guid: 4c61406dde1b1fa4fbf7c2f2e9c9ebe3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 4c61406dde1b1fa4fbf7c2f2e9c9ebe3, type: 3}
+--- !u!4 &6179347822399199423 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3167419816361379189, guid: 4c61406dde1b1fa4fbf7c2f2e9c9ebe3, type: 3}
+  m_PrefabInstance: {fileID: 9094346066554314186}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9094346067102136061
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8913029898346470601}
+    m_Modifications:
+    - target: {fileID: 3476659659044102848, guid: d1ef0aa7e33b81b41a68b855d9a088ff, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3476659659044102848, guid: d1ef0aa7e33b81b41a68b855d9a088ff, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3476659659044102848, guid: d1ef0aa7e33b81b41a68b855d9a088ff, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.9269999
+      objectReference: {fileID: 0}
+    - target: {fileID: 3476659659044102848, guid: d1ef0aa7e33b81b41a68b855d9a088ff, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3476659659044102848, guid: d1ef0aa7e33b81b41a68b855d9a088ff, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071072
+      objectReference: {fileID: 0}
+    - target: {fileID: 3476659659044102848, guid: d1ef0aa7e33b81b41a68b855d9a088ff, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3476659659044102848, guid: d1ef0aa7e33b81b41a68b855d9a088ff, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7071064
+      objectReference: {fileID: 0}
+    - target: {fileID: 3476659659044102848, guid: d1ef0aa7e33b81b41a68b855d9a088ff, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3476659659044102848, guid: d1ef0aa7e33b81b41a68b855d9a088ff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3476659659044102848, guid: d1ef0aa7e33b81b41a68b855d9a088ff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 3476659659044102848, guid: d1ef0aa7e33b81b41a68b855d9a088ff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4284122979059726458, guid: d1ef0aa7e33b81b41a68b855d9a088ff, type: 3}
+      propertyPath: m_Name
+      value: Wall Rack Support (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d1ef0aa7e33b81b41a68b855d9a088ff, type: 3}
+--- !u!4 &5623315993634198589 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3476659659044102848, guid: d1ef0aa7e33b81b41a68b855d9a088ff, type: 3}
+  m_PrefabInstance: {fileID: 9094346067102136061}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9094346067245017846
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8913029898346470601}
+    m_Modifications:
+    - target: {fileID: 3476659659044102848, guid: d1ef0aa7e33b81b41a68b855d9a088ff, type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 3476659659044102848, guid: d1ef0aa7e33b81b41a68b855d9a088ff, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3476659659044102848, guid: d1ef0aa7e33b81b41a68b855d9a088ff, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3476659659044102848, guid: d1ef0aa7e33b81b41a68b855d9a088ff, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3476659659044102848, guid: d1ef0aa7e33b81b41a68b855d9a088ff, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071072
+      objectReference: {fileID: 0}
+    - target: {fileID: 3476659659044102848, guid: d1ef0aa7e33b81b41a68b855d9a088ff, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3476659659044102848, guid: d1ef0aa7e33b81b41a68b855d9a088ff, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7071064
+      objectReference: {fileID: 0}
+    - target: {fileID: 3476659659044102848, guid: d1ef0aa7e33b81b41a68b855d9a088ff, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3476659659044102848, guid: d1ef0aa7e33b81b41a68b855d9a088ff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3476659659044102848, guid: d1ef0aa7e33b81b41a68b855d9a088ff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 3476659659044102848, guid: d1ef0aa7e33b81b41a68b855d9a088ff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4284122979059726458, guid: d1ef0aa7e33b81b41a68b855d9a088ff, type: 3}
+      propertyPath: m_Name
+      value: Wall Rack Support (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d1ef0aa7e33b81b41a68b855d9a088ff, type: 3}
+--- !u!4 &5623315994045646902 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3476659659044102848, guid: d1ef0aa7e33b81b41a68b855d9a088ff, type: 3}
+  m_PrefabInstance: {fileID: 9094346067245017846}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9094346067270763517
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8913029898346470601}
+    m_Modifications:
+    - target: {fileID: 2359674162381889487, guid: 4c61406dde1b1fa4fbf7c2f2e9c9ebe3, type: 3}
+      propertyPath: m_Name
+      value: Wall Rack Rail (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3167419816361379189, guid: 4c61406dde1b1fa4fbf7c2f2e9c9ebe3, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3167419816361379189, guid: 4c61406dde1b1fa4fbf7c2f2e9c9ebe3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.0022001266
+      objectReference: {fileID: 0}
+    - target: {fileID: 3167419816361379189, guid: 4c61406dde1b1fa4fbf7c2f2e9c9ebe3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.029999971
+      objectReference: {fileID: 0}
+    - target: {fileID: 3167419816361379189, guid: 4c61406dde1b1fa4fbf7c2f2e9c9ebe3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.015999913
+      objectReference: {fileID: 0}
+    - target: {fileID: 3167419816361379189, guid: 4c61406dde1b1fa4fbf7c2f2e9c9ebe3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071071
+      objectReference: {fileID: 0}
+    - target: {fileID: 3167419816361379189, guid: 4c61406dde1b1fa4fbf7c2f2e9c9ebe3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3167419816361379189, guid: 4c61406dde1b1fa4fbf7c2f2e9c9ebe3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7071065
+      objectReference: {fileID: 0}
+    - target: {fileID: 3167419816361379189, guid: 4c61406dde1b1fa4fbf7c2f2e9c9ebe3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3167419816361379189, guid: 4c61406dde1b1fa4fbf7c2f2e9c9ebe3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3167419816361379189, guid: 4c61406dde1b1fa4fbf7c2f2e9c9ebe3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 3167419816361379189, guid: 4c61406dde1b1fa4fbf7c2f2e9c9ebe3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 4c61406dde1b1fa4fbf7c2f2e9c9ebe3, type: 3}
+--- !u!4 &6179347822587266696 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3167419816361379189, guid: 4c61406dde1b1fa4fbf7c2f2e9c9ebe3, type: 3}
+  m_PrefabInstance: {fileID: 9094346067270763517}
+  m_PrefabAsset: {fileID: 0}

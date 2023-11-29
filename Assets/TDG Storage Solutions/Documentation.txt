@@ -1,0 +1,11 @@
+TDG Storage Solutions
+
+If you enjoy our work, please leave us a review - https://assetstore.unity.com/publishers/71166
+
+By default, this package works with the Build-in RP.  To use with URP - delete the materials in the materials folder and extract the URPMaterials package.
+
+The package includes a shelf unit, along with three different height support bars and a coupling piece, providing flexibility and adaptability.   Also included are milk carton crates, hanging supports, clear plastic bins, and other shelving solutions. The accompanying textures are fully colorable via standard Unity shaders.
+
+This pack is completely compatible with all other TDG packs (https://assetstore.unity.com/publishers/71166) in both style and scale, as well as with other popular low poly packs available on the Unity asset store.
+
+If you have any questions or feedback, e-mail theorydigitalgames@gmail.com .
