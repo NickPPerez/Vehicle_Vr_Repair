@@ -2344,7 +2344,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Wheel Change
+  m_text: 'Replace Flat Tire
 
 '
   m_isRightToLeft: 0
